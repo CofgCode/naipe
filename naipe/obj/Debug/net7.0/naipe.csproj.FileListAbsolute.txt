@@ -1,0 +1,14 @@
+D:\video\Lean\Master-CSharp-Microservicios\Code\naipe\naipe\bin\Debug\net7.0\naipe.exe
+D:\video\Lean\Master-CSharp-Microservicios\Code\naipe\naipe\bin\Debug\net7.0\naipe.deps.json
+D:\video\Lean\Master-CSharp-Microservicios\Code\naipe\naipe\bin\Debug\net7.0\naipe.runtimeconfig.json
+D:\video\Lean\Master-CSharp-Microservicios\Code\naipe\naipe\bin\Debug\net7.0\naipe.dll
+D:\video\Lean\Master-CSharp-Microservicios\Code\naipe\naipe\bin\Debug\net7.0\naipe.pdb
+D:\video\Lean\Master-CSharp-Microservicios\Code\naipe\naipe\obj\Debug\net7.0\naipe.GeneratedMSBuildEditorConfig.editorconfig
+D:\video\Lean\Master-CSharp-Microservicios\Code\naipe\naipe\obj\Debug\net7.0\naipe.AssemblyInfoInputs.cache
+D:\video\Lean\Master-CSharp-Microservicios\Code\naipe\naipe\obj\Debug\net7.0\naipe.AssemblyInfo.cs
+D:\video\Lean\Master-CSharp-Microservicios\Code\naipe\naipe\obj\Debug\net7.0\naipe.csproj.CoreCompileInputs.cache
+D:\video\Lean\Master-CSharp-Microservicios\Code\naipe\naipe\obj\Debug\net7.0\naipe.dll
+D:\video\Lean\Master-CSharp-Microservicios\Code\naipe\naipe\obj\Debug\net7.0\refint\naipe.dll
+D:\video\Lean\Master-CSharp-Microservicios\Code\naipe\naipe\obj\Debug\net7.0\naipe.pdb
+D:\video\Lean\Master-CSharp-Microservicios\Code\naipe\naipe\obj\Debug\net7.0\naipe.genruntimeconfig.cache
+D:\video\Lean\Master-CSharp-Microservicios\Code\naipe\naipe\obj\Debug\net7.0\ref\naipe.dll
